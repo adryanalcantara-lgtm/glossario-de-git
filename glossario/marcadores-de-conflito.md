@@ -1,9 +1,8 @@
 ---
-title: termo
+title: marcadores-de-conflito
 ---
 
-# termo
+# marcadores-de-conflito
 
-(Duas a quatro linhas explicando o termo, com as suas palavras.
-Uma delas precisa trazer um exemplo concreto: um comando, ou uma
-situação em que o termo aparece.)
+(Marcadores de conflito mostram partes diferentes que o Git não conseguiu juntar sozinho.
+Por exemplo, podem aparecer após um git merge.)
